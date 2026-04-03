@@ -1,3 +1,10 @@
+
+<div align="right">
+
+🌐 **Languages:** English | [繁體中文](README.zh-TW.md)
+
+</div>
+
 <div align="center">
   <p>
     <a align="center" href="" target="https://supervision.roboflow.com">
